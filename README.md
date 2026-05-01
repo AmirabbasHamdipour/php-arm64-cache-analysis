@@ -21,7 +21,7 @@ On ARM64, due to its **weakly-ordered memory model**, accessing a second propert
        void* value;
        char padding[8];
    } aligned_bucket_t __attribute__((aligned(CACHE_LINE_SIZE)));
-```
+
 
 📈 Expected Improvement
 
