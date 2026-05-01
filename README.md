@@ -37,10 +37,8 @@ chmod +x run.sh
 📅 TODO
 
 · Implement actual PHP extension in C
-· Submit patch to php-src
 · Test on real M3 hardware
 
 ---
 
 Author: AmirabbasHamdipour
-Goal: RFC for PHP Internals
